@@ -1,0 +1,7 @@
+name: SitPlugin
+version: 1.0
+main: AT.MSev.Sit.Sit
+commands:
+   Sit:
+      description: Makes you sit on the floor.
+      usage: /Sit
